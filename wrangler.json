@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "bold-feather-1ddf",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "135f90e1-6815-47f9-bfb8-3c3d79153dfb",
+      "database_name": "restless-recipe-cbd2-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
